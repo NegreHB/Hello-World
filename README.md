@@ -1,2 +1,2 @@
 # Hello World
- Passo 1 no Git-Github
+ Passo 1, aprendendo Git & Github.
